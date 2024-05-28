@@ -1,4 +1,4 @@
-package test2;
+package Book;
 
 public class Book{
     private Long id;
